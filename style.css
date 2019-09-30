@@ -6,7 +6,8 @@ h1 {
   text-align: center;
 }
 
-#notes, .newNote {
+#notes,
+.newNote {
   margin: 0 auto;
   width: 75%;
 }
@@ -18,13 +19,13 @@ h1 {
   padding: 10px;
 }
 
-.newNote{
+.newNote {
   background-color: lightgreen;
   border: 8px solid green;
   box-sizing: border-box;
 }
 
-.hide{
+.hide {
   display: none;
 }
 
